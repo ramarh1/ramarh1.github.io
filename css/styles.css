@@ -610,7 +610,7 @@ progress {
 .img-thumbnail {
   padding: 0.25rem;
   max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .figure {
@@ -4653,9 +4653,8 @@ textarea.form-control-lg {
 }
 
 .card-body {
-  /* flex: 1 1 auto; */
+  flex: 1 1 auto;
   padding: 1rem 1rem;
-  margin: auto;
 }
 
 .card-title {
