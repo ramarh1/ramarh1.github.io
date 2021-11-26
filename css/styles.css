@@ -609,11 +609,8 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #b3b4b6;
-  border-radius: 0.25rem;
-  max-width: 50%;
-  height: 50%;
+  max-width: 100%;
+  height: 100%;
 }
 
 .figure {
